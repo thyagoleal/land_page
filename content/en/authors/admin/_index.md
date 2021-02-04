@@ -47,19 +47,22 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ThyagoHills
   label: Follow me on Twitter
   display:
     header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/8791052014565250
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -74,9 +77,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Molecular biologist, bioinformatician with wet and dry experience
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+{{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a biologist who likes computers and statistics! I’m a strong advocate for open(science, data, source) and reproducible research. My main goal is to use biology and computational tools to understand biological phenomena. During my graduation I worked mainly with transcriptomics, genomics and molecular biology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+{{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python (snakemake pipelines, automation, machine learning) and Bash (automation, linux management). I’m also beginner with C++ and Rust languages.
+
+{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, medidating, oil painting, hiking, music, hugging pets, and learning new stuff in (bio)-informatics world.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
