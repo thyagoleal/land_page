@@ -81,8 +81,8 @@ Molecular biologist, bioinformatician with wet and dry experience
 
 {{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a biologist who likes computers and statistics! I’m a strong advocate for open(science, data, source) and reproducible research. My main goal is to use biology and computational tools to understand biological phenomena. During my graduation I worked mainly with transcriptomics, genomics and molecular biology.
 
-{{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python (snakemake pipelines, automation, machine learning) and Bash (automation, linux management). I’m also beginner with C++ and Rust languages.
+{{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python (snakemake pipelines, automation, machine learning) and Bash/Zsh (automation, linux management). I’m also beginner with C++ and Rust languages.
 
-{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, medidating, oil painting, hiking, music, hugging pets, and learning new stuff in (bio)-informatics world.
+{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, meditating, oil painting, hiking, music, hugging pets, and learning new stuff about the (bio)-informatics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
