@@ -20,69 +20,85 @@ feature:
   icon: dna
   icon_pack: fas
   name: Molecular Biology
-- description: DNA/RNA (NGS, arrays)
+
+- description: 
   icon: laptop-code
   icon_pack: fas
   name: Bioinformatics
-- description: (Debian Linux, Ubuntu Linux, Windows) 
-  icon: laptop
-  icon_pack: fas
-  name: OS 
-- description: 
+
+# - description: (Debian Linux, Ubuntu Linux, Windows) 
+#   icon: laptop
+#   icon_pack: fas
+#   name: OS 
+
+- description: (Ubuntu, Debian, Windows)
   icon: linux
   icon_pack: fab
   name: Linux
+
 - description: 
-  icon: git
+  icon: git-square
   icon_pack: fab
   name: Git
+
 - description: 
   icon: github
   icon_pack: fab
   name: GitHub  
+
 - description: (tidyverse, caret, data.table) 
   icon: r-project
   icon_pack: fab
   name: R
-- description: (Pandas, Keras, PyTorch)
+
+- description: #(Pandas, Keras, PyTorch)
   icon: python
   icon_pack: fab
   name: Python
+
 - description: 
-  icon: gnu-bash
-  icon_pack: fai
+  icon: terminal
+  icon_pack: fas
   name: Bash/Zsh
-- description: Applied stats. (Frequentist & Bayesian)
+
+- description:
   icon: chart-line
   icon_pack: fas
   name: Data analysis
-- description: ggplot2, lattice, ShinyApps, Plotly
+
+- description: ggplot2, lattice, ShinyApps
   icon: data-viz
   icon_pack: custom
   name: Data viz
-- description: 
+
+- description:  
   icon: docker
   icon_pack: fab
   name: Docker 
+
 - description: 
   icon: open-access
   icon_pack: ai
   name: Open Science
+
 - description: (Photoshop, Illustrator, After Effects, Premiere)
   icon: photoshop
   icon_pack: custom
   name: Adobe Suite 
+
 - description: (3Ds Max, Maya)
   icon: 
   icon_pack: custom
   name: Autodesk
+
 - description: 
   icon: brush
   icon_pack: fas
   name: Scientific Illustration
+
 - description: Wordpress, Jekyll, Hugo
-  icon: web
-  icon_pack: fas
+  icon: firefox-browser
+  icon_pack: fab
   name: Web  
 
 # Uncomment to use emoji icons.
