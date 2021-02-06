@@ -6,35 +6,35 @@ title: Thyago Leal Calvo
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Estudante de doutorado
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oswaldo Cruz Foundation (FIOCRUZ)
+- name: Fundação Oswaldo Cruz (FIOCRUZ)
   url: http://www.fiocruz.br/ioc/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 # Interests to show in About widget
-interests:
-- Molecular Biology
-- Bioinformatics
-- Genetics
-- Applied Statistics
-- Data Science & Machine Learning
+Interesses:
+- Biologia molecular
+- Bioinformática
+- Genética
+- Estatística aplicada
+- Ciência de Dados e aprendizado de máquinas
 
 # Education to show in About widget
-education:
+Educação formal:
   courses:
-  - course: PhD in Cell & Molecular Biology (Bioinformatics, Functional Genomics)
-    institution: Oswaldo Cruz Foundation
+  - course: Doutorado em Biologia Celular & Molecular (Bioinformática, genômica funcional)
+    institution: Fundação Oswaldo Cruz (FIOCRUZ)
     year: 2022
-  - course: MSc in Cell & Molecular Biology (Bioinformatics)
-    institution: Oswaldo Cruz Foundation
+  - course: Mestrado em Biologia Celular & Molecular (Bioinformática)
+    institution: Fundação Oswaldo Cruz (FIOCRUZ)
     year: 2018
-  - course: BSc in Biological Sciences
-    institution: Federal University of Goiás
+  - course: Bacharelado em Ciências Biológicas
+    institution: Universidade Federal de Goiás
     year: 2016
 
 # Social/Academic Networking
@@ -77,12 +77,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Molecular biologist, bioinformatician with wet and dry experience
+Biologista molecular, bioinformata
 
-{{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a biologist who likes computers and statistics! I’m a strong advocate for open(science, data, source) and reproducible research. My main goal is to use biology and computational tools to understand biological phenomena. During my graduation I worked mainly with transcriptomics, genomics and molecular biology.
+{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biólogo que gosta de computadores e estatística! Eu acredito e defendo ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é aplicar conhecimento biológico e computacional para entender fenômenos biológicos relevantes para a humanidade e outros seres vivos. Durante minha pós-graduação eu trabalhei principalmente como transcritômica, genômica e biologia molecular. 
 
-{{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python (snakemake pipelines, automation, machine learning) and Bash/Zsh (automation, linux management). I’m also beginner with C++ and Rust languages.
+{{< icon name="file-code" pack="fas" >}} Apesar de achar a competição de linguagens uma besteira, eu frequentemente uso R (estatística, formatação de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Estou iniciando com C++ e descobrindo Rust.  
 
-{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, meditating, oil painting, hiking, music, hugging pets, and learning new stuff about the (bio)-informatics.
+{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação (atenção plena), pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas sobre biologia e informática.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
