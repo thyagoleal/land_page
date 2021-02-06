@@ -59,7 +59,7 @@ social:
   link: http://lattes.cnpq.br/8791052014565250
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/thyagoleal
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
