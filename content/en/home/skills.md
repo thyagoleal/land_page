@@ -56,6 +56,16 @@ feature:
   icon_pack: fab
   name: Python
 
+- description:
+  icon: markdown
+  icon_pack: fab
+  name: Markdown
+
+- description:
+  icon: latex
+  icon_pack: custom
+  name: Latex
+
 - description: 
   icon: terminal
   icon_pack: fas
