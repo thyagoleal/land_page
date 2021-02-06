@@ -62,12 +62,12 @@ feature:
   name: Bash/Zsh
 
 - description:
-  icon: chart-line
+  icon: table
   icon_pack: fas
   name: Data analysis
 
 - description: ggplot2, lattice, ShinyApps
-  icon: data-viz
+  icon: boxplot
   icon_pack: custom
   name: Data viz
 
@@ -76,23 +76,28 @@ feature:
   icon_pack: fab
   name: Docker 
 
+- description: SQL, MongoDb
+  icon: database
+  icon_pack: fas
+  name: Database
+
 - description: 
   icon: open-access
   icon_pack: ai
   name: Open Science
 
 - description: (Photoshop, Illustrator, After Effects, Premiere)
-  icon: photoshop
+  icon: adobe
   icon_pack: custom
   name: Adobe Suite 
 
 - description: (3Ds Max, Maya)
-  icon: 
+  icon: autodesk
   icon_pack: custom
   name: Autodesk
 
 - description: 
-  icon: brush
+  icon: pen-fancy
   icon_pack: fas
   name: Scientific Illustration
 
