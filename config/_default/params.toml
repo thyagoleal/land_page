@@ -86,7 +86,7 @@ phone = "+55 21 2562 1556"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ave Brazil, 4.365", city = "Rio de Janeiro", region = "RJ", postcode = "21.040-360", country = "Brazil", country_code = "BR"}
+address = {street = "Ave. Brazil, 4.365", city = "Rio de Janeiro", region = "RJ", postcode = "21.040-360", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -138,7 +138,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "l", show_logo = false, highlight_active_link = true, show_language = false, show_day_night = true, show_search = false}
+main_menu = {enable = true, align = "l", show_logo = false, highlight_active_link = true, show_language = true, show_day_night = true, show_search = false}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = false
@@ -152,7 +152,7 @@ sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under MIT license"}
+copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under MIT license"}
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
