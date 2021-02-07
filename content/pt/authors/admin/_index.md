@@ -85,4 +85,4 @@ Biologista molecular, bioinformata
 
 {{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação (atenção plena), pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas sobre biologia e informática.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
