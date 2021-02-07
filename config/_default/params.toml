@@ -86,14 +86,14 @@ phone = "+55 21 2562 1556"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ave. Brazil, 4.365", city = "Rio de Janeiro", region = "RJ", postcode = "21.040-360", country = "Brazil", country_code = "BR"}
+address = {street = "Brazil Ave. 4.365, Manguinhos", city = "Rio de Janeiro", region = "RJ", postcode = "21.040-360", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "-22.87849395122503", longitude = "-43.241994137987604"}
 
 # Directions for visitors to locate you.
-directions = "Next to Ambulatorio Souza Araujo and CTV"
+directions = "Next to Souza Araujo outpatient clinic and CTV"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
