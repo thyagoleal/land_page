@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/ThyagoHills
   label: Follow me on Twitter
   display:
-    header: true
+    header: false
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -60,6 +60,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/thyagoleal
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9520-4791
+
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
