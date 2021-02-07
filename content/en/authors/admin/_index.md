@@ -63,6 +63,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9520-4791
+- icon: pubpeer
+  icon_pack: ai
+  link: https://pubpeer.com/  
 
 # - icon: linkedin
 #   icon_pack: fab
