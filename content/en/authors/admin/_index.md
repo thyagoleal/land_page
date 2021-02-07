@@ -85,4 +85,4 @@ Molecular biologist, bioinformatician with wet and dry experience
 
 {{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, meditating, oil painting, hiking, music, hugging pets, and learning new stuff about the (bio)-informatics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
