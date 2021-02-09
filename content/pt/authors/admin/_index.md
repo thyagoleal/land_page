@@ -81,7 +81,7 @@ Biologista molecular, bioinformata
 
 {{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biólogo que gosta de computadores e estatística! Eu acredito e defendo ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é aplicar conhecimento biológico e computacional para entender fenômenos biológicos relevantes para a humanidade e outros seres vivos. Durante minha pós-graduação eu trabalhei principalmente como transcritômica, genômica e biologia molecular. 
 
-{{< icon name="file-code" pack="fas" >}} Apesar de achar a competição de linguagens uma besteira, eu frequentemente uso R (estatística, formatação de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Estou iniciando com C++ e descobrindo Rust.  
+{{< icon name="file-code" pack="fas" >}} Apesar de achar a competição de linguagens uma besteira, eu frequentemente uso R (estatística, formatação de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Sou iniciante com C++.  
 
 {{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação (atenção plena), pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas.  
 
