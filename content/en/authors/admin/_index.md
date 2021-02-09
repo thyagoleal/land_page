@@ -21,8 +21,8 @@ interests:
 - Molecular Biology
 - Bioinformatics
 - Genetics
-- Applied Statistics
-- Data Science & Machine Learning
+- Data analysis
+- Machine Learning
 
 # Education to show in About widget
 education:
@@ -90,6 +90,6 @@ Molecular biologist, bioinformatician with wet and dry experience
 
 {{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python (snakemake pipelines, automation, machine learning) and Bash/Zsh (automation, linux management). I’m also beginner with C++ and Rust languages.
 
-{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, meditating, oil painting, hiking, music, hugging pets, and learning new stuff about the (bio)-informatics.
+{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, meditating, painting, hiking, music, pets, and learning new stuff.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
