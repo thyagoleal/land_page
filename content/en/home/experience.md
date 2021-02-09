@@ -31,11 +31,21 @@ experience:
     description: |2-
         During my undergraduation, I rotated through biochemistry, molecular biology and microbiology labs, where I developed skills such as  bacterial and eukaryote cell culture, nucleic acids molecular biology, aptamer construction and molecular cloning.
         
-  - title: Professor
-    company: University X
+  - title: Graduate researcher (Masters)
+    company: Fiocruz/IOC/LAHAN
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Rio de Janeiro, Brazil
+    date_start: '2016-07-01'
+    date_end: '2018-07-16'
+    description: |2-
+        For my master's dissertation I worked with microarray datasets for identifying common biological modulated pathways in leprosy. During this time, most of my bioinformatics skills were consolidated, especially -omics data analysis, scripting, design of experiments and data viz.
+
+  - title: Graduate researcher (PhD)
+    company: Fiocruz/IOC/LAHAN
+    company_url: ''
+    location: Rio de Janeiro, Brazil
+    date_start: '2018-08-01'
+    date_end: ''
+    description: |2-
+        In my PhD I apply transcriptomics (RNA sequencing) to identify biomarkers and novel biological pathways behind leprosy immunopathogenesis, focusing on translational applications. I also had the opportunity to work with genomics bioinformatics, such as targeted-exome sequencing, small-medium scale genotyping and QTL mapping, thanks to internal and external collaborations. In parallel, I work upon improving my coding skills, experiment design, learning about the most relevant database systems and reproducible research techniques/tools.           
 ---
