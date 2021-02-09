@@ -31,7 +31,7 @@ feature:
 #   icon_pack: fas
 #   name: OS 
 
-- description: (Ubuntu, Debian, Windows)
+- description: (Ubuntu, Debian, Manjaro)
   icon: linux
   icon_pack: fab
   name: Linux
