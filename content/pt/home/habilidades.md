@@ -26,7 +26,7 @@ feature:
   icon_pack: fas
   name: Bioinformática
 
-- description: (Ubuntu, Debian, Windows)
+- description: (Ubuntu, Debian)
   icon: linux
   icon_pack: fab
   name: Linux
@@ -71,7 +71,7 @@ feature:
   icon_pack: fab
   name: Docker 
 
-- description: SQL, MongoDb
+- description: #SQL, MongoDb
   icon: database
   icon_pack: fas
   name: Bancos de dados

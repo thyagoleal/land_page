@@ -86,7 +86,7 @@ feature:
   icon_pack: fab
   name: Docker 
 
-- description: SQL, MongoDb
+- description: #SQL, MongoDb
   icon: database
   icon_pack: fas
   name: Database
