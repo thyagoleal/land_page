@@ -22,18 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Undergraduate researcher
+    company: UFG
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Goiás, Brazil
+    date_start: '2013-01-01'
+    date_end: '2015-07-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        During my undergraduation, I rotated through biochemistry, molecular biology and microbiology labs, where I developed skills such as  bacterial and eukaryote cell culture, nucleic acids molecular biology, aptamer construction and molecular cloning.
         
   - title: Professor
     company: University X
