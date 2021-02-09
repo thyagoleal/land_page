@@ -38,7 +38,7 @@ experience:
     date_start: '2016-07-01'
     date_end: '2018-07-16'
     description: |2-
-        For my master's dissertation I worked with microarray datasets for identifying common biological modulated pathways in leprosy. During this time, most of my bioinformatics skills were consolidated, especially -omics data analysis, scripting, design of experiments and data viz.
+        For my master's dissertation I worked with microarray datasets for identifying common biological modulated pathways in leprosy. During this time, most of my bioinformatics skills were consolidated, especially -omics data analysis, scripting, design of experiments and data viz. I also spent some time in professor's Stewart Cole’s Lab, EPFL, Lausanne, Switzerland, where I worked with molecular biology and had some experience in a BSL-3 lab.
 
   - title: Graduate researcher (PhD)
     company: Fiocruz/IOC/LAHAN
@@ -47,5 +47,5 @@ experience:
     date_start: '2018-08-01'
     date_end: ''
     description: |2-
-        In my PhD I apply transcriptomics (RNA sequencing) to identify biomarkers and novel biological pathways behind leprosy immunopathogenesis, focusing on translational applications. I also had the opportunity to work with genomics bioinformatics, such as targeted-exome sequencing, small-medium scale genotyping and QTL mapping, thanks to internal and external collaborations. In parallel, I work upon improving my coding skills, experiment design, learning about the most relevant database systems and reproducible research techniques/tools.           
+        In my PhD I apply transcriptomics (RNA sequencing) and mol. bio. to identify biomarkers and novel biological pathways behind leprosy immunopathogenesis, focusing on translational applications. I also had the opportunity to work with genomics bioinformatics, such as targeted-exome sequencing, small-medium scale genotyping and QTL mapping, thanks to internal and external collaborations. In parallel, I work upon improving my coding skills, experiment design, learning about the most relevant database systems and reproducible research techniques/tools.           
 ---
