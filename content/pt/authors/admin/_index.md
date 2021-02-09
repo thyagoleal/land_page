@@ -21,8 +21,8 @@ Interesses:
 - Biologia molecular
 - Bioinformática
 - Genética
-- Estatística aplicada
-- Ciência de Dados e aprendizado de máquinas
+- Análise de dados
+- Aprendizado de máquinas
 
 # Education to show in About widget
 Educação formal:
@@ -83,6 +83,6 @@ Biologista molecular, bioinformata
 
 {{< icon name="file-code" pack="fas" >}} Apesar de achar a competição de linguagens uma besteira, eu frequentemente uso R (estatística, formatação de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Estou iniciando com C++ e descobrindo Rust.  
 
-{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação (atenção plena), pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas sobre biologia e informática.  
+{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação (atenção plena), pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
