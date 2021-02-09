@@ -29,7 +29,7 @@ experience:
     date_start: '2013-01-01'
     date_end: '2015-07-01'
     description: |2-
-        During my undergraduation, I rotated through biochemistry, molecular biology and microbiology labs, where I developed skills such as  bacterial and eukaryote cell culture, nucleic acids molecular biology, aptamer construction and molecular cloning.
+        During my undergraduation, I rotated through microbiology (Dr. Jupyracyara C. Barros), biochemistry (Dr. Geraldo L. Sadoyama) and molecular biology (Adriana F. Neves) labs, where I developed skills such as bacterial and eukaryote cell culture, nucleic acids molecular biology, SELEX for aptamer identification and molecular cloning.
         
   - title: Graduate researcher (Masters)
     company: Fiocruz/IOC/LAHAN
@@ -38,7 +38,7 @@ experience:
     date_start: '2016-07-01'
     date_end: '2018-07-16'
     description: |2-
-        For my master's dissertation I worked with microarray datasets for identifying common biological modulated pathways in leprosy. During this time, most of my bioinformatics skills were consolidated, especially -omics data analysis, scripting, design of experiments and data viz. I also spent some time in professor's Stewart Cole’s Lab, EPFL, Lausanne, Switzerland, where I worked with molecular biology and had some experience in a BSL-3 lab.
+        For my master's dissertation I worked with microarray datasets for identifying common biological modulated pathways in leprosy. During this time, most of my bioinformatics skills were consolidated, especially -omics data analysis, scripting, design of experiments and data viz. I also spent some time in professor's Stewart Cole’s Lab, EPFL, Lausanne, Switzerland, where I worked with RNA sequencing and had some experience in a BSL-3 lab.
 
   - title: Graduate researcher (PhD)
     company: Fiocruz/IOC/LAHAN

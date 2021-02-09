@@ -29,7 +29,7 @@ experience:
     date_start: '2012-07-01'
     date_end: '2015-07-01'
     description: |2-
-        Durante a graduação eu circulei entre os laboratórios de bioquímica (Dr. Geraldo L. Sadoyama), biologia molecular (Dra. Adriana F. Neves) e microbiologia (Dra. Jupyracyara C. Barros), nos quais aprendi sobre cultura celular bacteriana e eucariótica, manipulação de ácidos nucleicos, PCR, SELEX para identificação de aptâmeros, clonagem molecular, identificação de compostos antimicrobianos e resistência bacteriana.
+        Durante a graduação eu circulei entre os laboratórios de microbiologia (Dra. Jupyracyara C. Barros), bioquímica (Dr. Geraldo L. Sadoyama) e biologia molecular (Dra. Adriana F. Neves), nos quais aprendi sobre cultura celular bacteriana e eucariótica, manipulação de ácidos nucleicos, PCR, SELEX para identificação de aptâmeros, clonagem molecular, identificação de compostos antimicrobianos e resistência bacteriana.
                 
   - title: Pesquisador (Mestrado)
     company: Fiocruz/IOC/LAHAN
