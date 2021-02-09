@@ -60,6 +60,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/thyagoleal
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9520-4791
 - icon: pubpeer
   icon_pack: ai
   link: https://pubpeer.com/ 
