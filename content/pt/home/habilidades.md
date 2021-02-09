@@ -101,6 +101,11 @@ feature:
   icon_pack: fab
   name: Web  
 
+- description: Exp. em lab. BSL-3.
+  icon: biohazard
+  icon_pack: fas
+  name: Biossegurança
+
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
