@@ -29,7 +29,7 @@ experience:
     date_start: '2012-07-01'
     date_end: '2015-07-01'
     description: |2-
-        Durante a graduação eu circulei entre os laboratórios de microbiologia (Dra. Jupyracyara C. Barros), bioquímica (Dr. Geraldo L. Sadoyama) e biologia molecular (Dra. Adriana F. Neves), nos quais aprendi sobre cultura celular bacteriana e eucariótica, manipulação de ácidos nucleicos, PCR, SELEX para identificação de aptâmeros, clonagem molecular, identificação de compostos antimicrobianos e resistência bacteriana.
+        Durante a graduação eu circulei entre os laboratórios de microbiologia (Dra. Jupyracyara C. Barros), bioquímica (Dr. Geraldo L. Sadoyama) e biologia molecular (Dra. Adriana F. Neves), nos quais aprendi sobre cultura celular bacteriana e eucariótica, manipulação de ácidos nucleicos, PCR, SELEX para identificação de aptâmeros, clonagem molecular, identificação e testagem de compostos antimicrobianos.
                 
   - title: Pesquisador (Mestrado)
     company: Fiocruz/IOC/LAHAN
@@ -40,12 +40,12 @@ experience:
     description: |2-
         Minha dissertação envolveu processamento de diversos conjuntos de dados de microarranjo em hanseníase, com objetivo de identificar novas vias biólogicas importantes para a doença. Durante esse período, desenvolvi muito habilidades com bioinformática, especialmente com experimentos de -ômicas, escrita de scripts, desenho de experimentos e visualização de dados. Por fim, passei um tempo no laboratório do professor Stewart Cole, em Lausana, Suíça, trabalhando com sequenciamento de RNA, onde também tive experiência em um laboratório de biossegurança nível 3.
 
-  - title: Graduate researcher (PhD)
+  - title: Pesquisador (Doutorado)
     company: Fiocruz/IOC/LAHAN
     company_url: ''
     location: Rio de Janeiro, Brazil
     date_start: '2018-08-01'
     date_end: ''
     description: |2-
-        In my PhD I apply transcriptomics (RNA sequencing) and mol. bio. to identify biomarkers and novel biological pathways behind leprosy immunopathogenesis, focusing on translational applications. I also had the opportunity to work with genomics bioinformatics, such as targeted-exome sequencing, small-medium scale genotyping and QTL mapping, thanks to internal and external collaborations. In parallel, I work upon improving my coding skills, experiment design, learning about the most relevant database systems and reproducible research techniques/tools. 
+        No meu doutorado eu utilizo transcritômica (sequenciamento de RNA) e biologia molecular para identificar biomarcadores e vias biológicas moduladas em hanseníase, visando aplicações translacionais. Eu também tive a oportunidade de trabalhar em projetos de colaboradores aplicando bioinformática para genômica, como em sequenciamento direcionado de exomas, genotipagem com plataformas de baixa-média vazão e mapeamento de loci de caracteres quantitativos. Em paralelo, estou sempre trabalhando para aprimorar minhas habilidades de programação, delineamento experimental, banco de dados e métodos e técnicas visando reprodutibilidade.  
 ---

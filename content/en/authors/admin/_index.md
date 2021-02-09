@@ -84,9 +84,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Molecular biologist, bioinformatician with wet and dry experience
+Molecular biologist, bioinformatician
 
-{{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a biologist who likes computers and statistics! I’m a strong advocate for open(science, data, source) and reproducible research. My main goal is to use biology and computational tools to understand biological phenomena relevant to human and other living beings. During my graduation I worked mainly with transcriptomics, genomics and molecular biology.
+{{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a biologist who likes computers, programming and biostatistics! I’m a strong advocate for open(science, data, source) and reproducible research. My main goal is to use biology and computational tools to understand biological phenomena relevant to human and other living beings. During my graduation I worked mainly with transcriptomics, genomics and molecular biology, both wet and dry.
 
 {{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python (snakemake pipelines, automation, machine learning) and Bash/Zsh (automation, linux management). I’m also beginner with C++.
 
