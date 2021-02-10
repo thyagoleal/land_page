@@ -6,7 +6,6 @@ if [ -z "$1" ]; then
 
 else 
     git commit -am "$1"
-    git push
 
     hugo
 
