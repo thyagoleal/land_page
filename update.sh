@@ -6,19 +6,19 @@ if [ -z "$1" ]; then
 
 else 
     git add -A
-    git commit -am "$1"
+    git commit -m "$1"
     git push
 
     hugo
 
     cd public
-    git add add -A 
-    git commit -am "$1"
+    git add add -A
+    git commit -m "$1"
 
     cd ..
 
     git push -u origin main --recurse-submodules=on-demand
 
 fi
-echo "Done!\n"
+echo "Done!"
 exit 0

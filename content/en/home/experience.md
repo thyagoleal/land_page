@@ -29,7 +29,7 @@ experience:
     date_start: '2013-01-01'
     date_end: '2015-07-01'
     description: |2-
-        During my undergraduation, I rotated through microbiology (Dr. Jupyracyara C. Barros), biochemistry (Dr. Geraldo L. Sadoyama) and molecular biology (Dr. Adriana F. Neves) labs, where I developed skills such as bacterial and eukaryote cell culture, nucleic acids molecular biology, SELEX for aptamer identification and molecular cloning, antimicrobial compound identification and evaluation.
+        During my undergraduation, I rotated through microbiology (Dr. Jupyracyara C. Barros), biochemistry (Dr. Geraldo L. Sadoyama) and molecular biology (Dr. Adriana F. Neves) labs, where I developed skills such as bacterial and eukaryote cell culture, nucleic acids molecular biology, SELEX for aptamer identification, molecular cloning, antimicrobial compound identification and evaluation.
         
   - title: Graduate researcher (Masters)
     company: Fiocruz/IOC/LAHAN
