@@ -5,14 +5,14 @@ if [ -z "$1" ]; then
     exit 1
 
 else 
-    git add -A
+    git add --all
     git commit -m "$1"
     git push
 
     hugo
 
     cd public
-    git add add -A
+    git add --all
     git commit -m "$1"
 
     cd ..
