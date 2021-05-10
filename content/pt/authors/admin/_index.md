@@ -14,10 +14,10 @@ organizations:
   url: http://www.fiocruz.br/ioc/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+# bio: ""
 
 # Interests to show in About widget
-Interesses:
+interests:
 - Biologia molecular
 - Bioinformática
 - Genética
@@ -25,7 +25,7 @@ Interesses:
 - Aprendizado de máquinas
 
 # Education to show in About widget
-Educação formal:
+education:
   courses:
   - course: Doutorado em Biologia Celular & Molecular (Bioinformática, genômica funcional)
     institution: Fundação Oswaldo Cruz (FIOCRUZ)
