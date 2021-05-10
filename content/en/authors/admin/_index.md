@@ -21,7 +21,7 @@ interests:
 - Molecular Biology
 - Bioinformatics
 - Genetics
-- Data analysis
+- Applied statistics
 - Machine Learning
 
 # Education to show in About widget

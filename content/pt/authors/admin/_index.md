@@ -21,7 +21,7 @@ Interesses:
 - Biologia molecular
 - Bioinformática
 - Genética
-- Análise de dados
+- Estatística aplicada
 - Aprendizado de máquinas
 
 # Education to show in About widget
