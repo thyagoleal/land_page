@@ -296,6 +296,39 @@ renders as
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{% /callout %}}
 
+This is a warning callout:
+
+```markdown
+{{%/* callout warning */%}}
+This is a warning!
+{{%/* /callout */%}}
+```
+
+rendered
+
+{{% callout warning %}}
+This is a warning!
+{{% /callout %}}
+
+### Footnotes
+
+You can use footnotes to make references and notes.
+Example:
+
+ 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+Add as many paragraphs as you like.
+
+
 ### Spoilers
 
 Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.
