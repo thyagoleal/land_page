@@ -14,7 +14,7 @@ baseurl = ""
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "ThyagoLC, {year}"
+copyright = "Thyago L.C., {year}"
 
 ############################
 ## Advanced options below ##
@@ -35,6 +35,7 @@ enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
 
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
