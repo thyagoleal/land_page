@@ -9427,3 +9427,21 @@ h2 {
 
 .footnotes {
   font-size: 0.75rem; }
+
+section#about div.container {
+  max-height: 34rem; }
+
+section#skills div.container {
+  max-height: 55rem;
+  margin-block-start: -5%; }
+
+section#experience div.container {
+  max-height: 46rem;
+  margin-block-start: -5%; }
+
+section#posts div.container {
+  margin-block-start: -3%; }
+
+section#contact div.container {
+  margin-block-start: -4.5%;
+  margin-bottom: -5%; }
