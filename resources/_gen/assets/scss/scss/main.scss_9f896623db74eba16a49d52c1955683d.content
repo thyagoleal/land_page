@@ -9411,3 +9411,19 @@ div.chart {
 body {
   text-align: justify;
   font-size: 0.9rem; }
+
+h1 {
+  font-size: 1.9rem; }
+
+h2 {
+  margin-top: 1rem;
+  font-size: 1.45rem; }
+
+.article-container {
+  max-width: 760px; }
+
+.article-metadata {
+  font-size: 14px; }
+
+.footnotes {
+  font-size: 0.75rem; }

@@ -34,4 +34,3 @@ There's no point in entering language wars... People usually pet their languages
 Good luck and enjoy the ride!
 
 [^1]: Welch et al., 2014; Plos Comput Bio. https://doi.org/10.1371/journal.pcbi.1003496
-
