@@ -31,7 +31,7 @@ experience:
     description: |2-
         During my undergraduation, I rotated through microbiology (Dr. Jupyracyara C. Barros), biochemistry (Dr. Geraldo L. Sadoyama) and molecular biology (Dr. Adriana F. Neves) labs, where I developed skills such as bacterial and eukaryote cell culture, nucleic acids molecular biology, SELEX for aptamer identification, molecular cloning, antimicrobial compound identification and evaluation.
         
-  - title: Graduate researcher (Masters)
+  - title: Graduate Researcher (Masters)
     company: Fiocruz/IOC/LAHAN
     company_url: ''
     location: Rio de Janeiro, Brazil
@@ -40,7 +40,7 @@ experience:
     description: |2-
         For my master's dissertation I worked with microarray datasets for identifying common biological modulated pathways in leprosy. During this time, most of my bioinformatics skills were consolidated, especially -omics data analysis, scripting, design of experiments and data viz. I also spent some time in professor's Stewart Cole’s Lab, EPFL, Lausanne, Switzerland, where I worked with RNA sequencing and had some experience in a BSL-3 lab.
 
-  - title: Graduate researcher (PhD)
+  - title: Graduate Researcher (PhD)
     company: Fiocruz/IOC/LAHAN
     company_url: ''
     location: Rio de Janeiro, Brazil

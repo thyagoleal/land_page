@@ -22,6 +22,7 @@ interests:
 - Bioinformatics
 - Genetics
 - Applied statistics
+- Research Methodology and Ethics
 - Machine Learning
 
 # Education to show in About widget
