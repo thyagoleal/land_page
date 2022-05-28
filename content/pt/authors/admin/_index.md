@@ -82,10 +82,10 @@ highlight_name: false
 ---
 Biólogo molecular, bioinformata
 
-{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biólogo que gosta de computadores, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade, estatística bayesiana e código livre. Meu principal objetivo é gerar conhecimento biológico relevante para a humanidade e também outros seres vivos, geralmente através de ferramentas de biologia molecular, bioinformática e bioestatística. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. 
+{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biólogo molecular que gosta de computadores, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é gerar conhecimento biológico relevante para a humanidade e também outros seres vivos. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. 
 
-{{< icon name="file-code" pack="fas" >}} Apesar de achar a competição entre linguagens uma besteira, eu frequentemente uso R (estatística, formatação/limpeza de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Também sou iniciante com C++ e Rust.  
+{{< icon name="file-code" pack="fas" >}} Eu frequentemente uso R (estatística, formatação/limpeza de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Também sou iniciante com C++ e Rust.  
 
-{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditation, pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas.  
+{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação, pintura, esportes radicais e na natureza, música, animais de estimação e aprender coisas novas.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
