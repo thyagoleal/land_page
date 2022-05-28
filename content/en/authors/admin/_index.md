@@ -27,14 +27,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Cell & Molecular Biology (Bioinformatics, Functional Genomics)
-    institution: Oswaldo Cruz Foundation
+  - course: PhD in Cell & Molecular Biology (Bioinformatics)
+    institution: Oswaldo Cruz Foundation (FIOCRUZ)
     year: 2022
   - course: MSc in Cell & Molecular Biology (Bioinformatics)
-    institution: Oswaldo Cruz Foundation
+    institution: Oswaldo Cruz Foundation (FIOCRUZ)
     year: 2018
   - course: BSc in Biological Sciences
-    institution: Federal University of Goiás
+    institution: Federal University of Goiás (UFG)
     year: 2016
 
 # Social/Academic Networking

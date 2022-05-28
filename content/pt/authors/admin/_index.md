@@ -27,14 +27,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doutorado em Biologia Celular & Molecular (Bioinformática, genômica funcional)
+  - course: Doutorado em Biologia Celular & Molecular (Bioinformática)
     institution: Fundação Oswaldo Cruz (FIOCRUZ)
     year: 2022
   - course: Mestrado em Biologia Celular & Molecular (Bioinformática)
     institution: Fundação Oswaldo Cruz (FIOCRUZ)
     year: 2018
   - course: Bacharelado em Ciências Biológicas
-    institution: Universidade Federal de Goiás
+    institution: Universidade Federal de Goiás (UFG)
     year: 2016
 
 # Social/Academic Networking

@@ -31,12 +31,19 @@ h2 {
 .footnotes { font-size: 0.75rem}
 
 section#about div.container{
-  max-height: 34rem;
+  max-height: 34.5rem;
   }
 
 section#skills div.container{
-  max-height: 55rem;
+  max-height: 60rem;
   margin-block-start: -5%;
+  margin-block-end: -5%;
+}
+
+section#habilidades div.container{
+  max-height: 60rem;
+  margin-block-start: -5%;
+  margin-block-end: -5%;
 }
 
 section#experience div.container{
