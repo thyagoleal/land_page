@@ -80,7 +80,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Biologista molecular, bioinformata
+Biólogo molecular, bioinformata
 
 {{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biólogo que gosta de computadores, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade, estatística bayesiana e código livre. Meu principal objetivo é gerar conhecimento biológico relevante para a humanidade e também outros seres vivos, geralmente através de ferramentas de biologia molecular, bioinformática e bioestatística. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. 
 
