@@ -6,7 +6,7 @@ title: Thyago Leal Calvo
 superuser: true
 
 # Role/position/tagline
-role: Estudante de doutorado
+role: Doutor em Ciências
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -86,6 +86,6 @@ Biologista molecular, bioinformata
 
 {{< icon name="file-code" pack="fas" >}} Apesar de achar a competição entre linguagens uma besteira, eu frequentemente uso R (estatística, formatação/limpeza de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Também sou iniciante com C++ e Rust.  
 
-{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação (atenção plena), pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas.  
+{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditation, pintura, caminhada (hiking), música, animais de estimação e aprender coisas novas.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

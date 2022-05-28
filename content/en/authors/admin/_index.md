@@ -6,7 +6,7 @@ title: Thyago Leal Calvo
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Doctor of Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
