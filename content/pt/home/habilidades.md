@@ -59,7 +59,6 @@ feature:
 - description:
   icon: latex
   icon_pack: custom  
- 
   name: Latex
   
 - description: 

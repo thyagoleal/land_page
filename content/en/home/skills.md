@@ -26,11 +26,6 @@ feature:
   icon_pack: fas
   name: Bioinformatics
 
-# - description: (Debian Linux, Ubuntu Linux, Windows) 
-#   icon: laptop
-#   icon_pack: fas
-#   name: OS 
-
 - description: (Ubuntu, Debian)
   icon: linux
   icon_pack: fab
