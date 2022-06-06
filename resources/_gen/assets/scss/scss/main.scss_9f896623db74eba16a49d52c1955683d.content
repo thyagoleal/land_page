@@ -9442,7 +9442,7 @@ section#habilidades div.container {
   margin-block-end: -5%; }
 
 section#experience div.container {
-  max-height: 46rem;
+  max-height: 59rem;
   margin-block-start: -5%; }
 
 section#posts div.container {

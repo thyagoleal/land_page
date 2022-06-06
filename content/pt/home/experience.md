@@ -45,7 +45,16 @@ experience:
     company_url: ''
     location: Rio de Janeiro, Brazil
     date_start: '2018-08-01'
-    date_end: ''
+    date_end: '2022-05-24'
     description: |2-
-        No meu doutorado eu utilizei transcritômica (sequenciamento de RNA) e biologia molecular para identificar biomarcadores e vias biológicas moduladas em hanseníase, visando aplicações translacionais. Trabalhei também em projetos de colaboradores aplicando bioinformática para genômica, como em sequenciamento direcionado de exomas, genotipagem com plataformas de baixa-média vazão e mapeamento de loci de caracteres quantitativos. Em paralelo, aprimorei minhas habilidades com biologia molecular, programação, delineamento experimental, banco de dados e métodos e técnicas visando reprodutibilidade científica.  
+        No meu doutorado eu utilizei transcritômica (sequenciamento de RNA) e biologia molecular para identificar biomarcadores e vias biológicas moduladas em hanseníase, visando aplicações translacionais. Trabalhei também em projetos de colaboradores aplicando bioinformática para genômica, como em sequenciamento direcionado de exomas, genotipagem com plataformas de baixa-média vazão e mapeamento de loci de caracteres quantitativos. Em paralelo, aprimorei minhas habilidades com biologia molecular, programação, delineamento experimental, banco de dados e métodos e técnicas visando reprodutibilidade científica.
+
+  - title: Consultor técnico 
+    company: LatchBio
+    company_url: 'https://latch.bio/'
+    location: São Francisco, Califórnia, EUA
+    date_start: '2022-05-27'
+    date_end: ''
+    description: |2- 
+        Consultoria em bioinformática incluindo beta-testing, bug report, desenvolvimento de recurss e aconselhamento técnico.          
 ---
