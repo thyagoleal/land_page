@@ -65,7 +65,10 @@ social:
   link: https://orcid.org/0000-0001-9520-4791
 - icon: pubpeer
   icon_pack: ai
-  link: https://pubpeer.com/  
+  link: https://pubpeer.com/ 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/thyago-leal-calvo-421b36166/  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
