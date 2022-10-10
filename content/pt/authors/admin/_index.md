@@ -83,12 +83,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Biólogo molecular, bioinformata
+Biologista molecular, bioinformata
 
-{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biólogo molecular que gosta de computadores, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é gerar conhecimento biológico relevante para a humanidade e também outros seres vivos. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. 
+{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biologista molecular que gosta de computadores, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é gerar conhecimento biológico relevante para a humanidade e outros seres vivos. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. 
 
 {{< icon name="file-code" pack="fas" >}} Eu frequentemente uso R (estatística, formatação/limpeza de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Também sou iniciante com C++ e Rust.  
 
-{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação, pintura, esportes radicais e na natureza, música, animais de estimação e aprender coisas novas.  
+{{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação, pintura a óleo, esportes ao ar livre, música, animais de estimação e aprender coisas novas.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
