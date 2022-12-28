@@ -43,7 +43,7 @@ experience:
   - title: Pesquisador (Doutorado)
     company: Fiocruz/IOC/LAHAN
     company_url: ''
-    location: Rio de Janeiro, Brazil
+    location: Rio de Janeiro, Brasil
     date_start: '2018-08-01'
     date_end: '2022-05-24'
     description: |2-
@@ -54,7 +54,17 @@ experience:
     company_url: 'https://latch.bio/'
     location: São Francisco, Califórnia, EUA
     date_start: '2022-05-27'
-    date_end: ''
+    date_end: '2022-07-27'
     description: |2- 
-        Consultoria em bioinformática incluindo beta-testing, bug report, desenvolvimento de recurss e aconselhamento técnico.          
+        Consultoria em bioinformática incluindo beta-testing, bug report, desenvolvimento de recurss e aconselhamento técnico.    
+        
+  - title: Pós-doc
+    company: FIOCRUZ/IOC/LAHAN
+    company_url: 'http://www.fiocruz.br/'
+    location: Rio de Janeiro, Brasil
+    date_start: '2022-07-01'
+    date_end: '2023-01-01'
+    description: |2- 
+        Compilei um workflow para análise de sequenciamento de genomas completos de _M. leprae_ usando Snakemake e ambientes virtuais.    
 ---
+
