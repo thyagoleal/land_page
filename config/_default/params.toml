@@ -83,29 +83,29 @@ show_related = {book = false, page = false, post = false, project = false, publi
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
-phone = "+55 21 2562 1556"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Brazil Ave. 4.365, Manguinhos", city = "Rio de Janeiro", region = "RJ", postcode = "21.040-360", country = "Brazil", country_code = "BR"}
+address = {street = " 2151 Berkeley Way", city = "Berkeley", region = "CA", postcode = "94720", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-22.87849395122503", longitude = "-43.241994137987604"}
+coordinates = {latitude = "37.8737809", longitude = "-122.2670021"}
 
 # Directions for visitors to locate you.
-directions = "Next to Souza Araujo outpatient clinic and CTV"
+directions = "Second floor, room 220"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Friday, 08h00 to 16:00"]
+office_hours = ["Monday-Friday, 08h00 to 17:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ThyagoHills"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/othyagoleal"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:thyago,leal?call"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -255,9 +255,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
-  zoom = 15
+  zoom = 17
 
 ############################
 ## Marketing

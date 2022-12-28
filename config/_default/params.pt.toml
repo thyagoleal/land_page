@@ -82,22 +82,22 @@ show_related = {book = false, page = false, post = false, project = false, publi
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
-phone = "+55 21 2562 1556"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ave. Brazil, 4.365", city = "Rio de Janeiro", region = "RJ", postcode = "21.040-360", country = "Brasil", country_code = "BR"}
+address = {street = "Berkeley Way, no. 2151", city = "Berkeley", region = "CA", postcode = "94720", country = "Estados Unidos", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-22.87849395122503", longitude = "-43.241994137987604"}
+coordinates = {latitude = "37.87396009586216", longitude = "-122.26659776130863"}
 
 # Directions for visitors to locate you.
-directions = "Próximo ao Ambulatório Souza Araujo e o CTV"
+directions = "2° piso, sala 220"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Segunda-Sexta, das 08h00-16:00"]
+office_hours = ["Segunda-Sexta, das 08h00-17:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 
@@ -254,9 +254,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
-  zoom = 15
+  zoom = 17
 
 ############################
 ## Marketing
