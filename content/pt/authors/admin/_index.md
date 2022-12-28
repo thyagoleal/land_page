@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doutorado em Biologia Celular & Molecular (Bioinformática)
+  - course: Doutorado em Biologia Celular & Molecular (Biologia Molecular)
     institution: Fundação Oswaldo Cruz (FIOCRUZ)
     year: 2022
   - course: Mestrado em Biologia Celular & Molecular (Bioinformática)
