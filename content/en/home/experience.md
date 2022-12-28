@@ -58,12 +58,12 @@ experience:
     description: |2- 
         Bioinformatics consulting services including beta-testing, bug report, feature development, and technical advisor. 
     
-  - title: Postdoctoral Researcher
+  - title: Postdoctoral fellow
     company: FIOCRUZ/IOC/LAHAN
     company_url: 'http://www.fiocruz.br/'
     location: Rio de Janeiro, Brazil
     date_start: '2022-07-01'
     date_end: '2023-01-01'
     description: |2- 
-        "Adapted a workflow for analyzing whole-genome sequencing data of _M. leprae_ using Snakemake and conda environments."     
+        Compiled a workflow for analyzing whole-genome sequencing data of _M. leprae_ using Snakemake and conda environments.    
 ---
