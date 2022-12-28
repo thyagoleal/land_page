@@ -47,7 +47,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ThyagoHills
+  link: https://twitter.com/othyagoleal
   label: Follow me on Twitter
   display:
     header: true
