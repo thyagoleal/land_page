@@ -10,8 +10,8 @@ role: Doctor of Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oswaldo Cruz Foundation (FIOCRUZ)
-  url: http://www.fiocruz.br/ioc/
+- name: Innovative Genomics Institute
+  url: https://innovativegenomics.org/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -21,7 +21,7 @@ interests:
 - Molecular Biology
 - Bioinformatics
 - Genetics
-- Applied statistics
+- CRISPR
 - Machine Learning
 
 # Education to show in About widget

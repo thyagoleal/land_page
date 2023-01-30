@@ -10,8 +10,8 @@ role: Doutor em Ciências
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Fundação Oswaldo Cruz (FIOCRUZ)
-  url: http://www.fiocruz.br/ioc/
+- name: Innovative Genomics Institute
+  url: https://innovativegenomics.org/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
@@ -21,7 +21,7 @@ interests:
 - Biologia molecular
 - Bioinformática
 - Genética
-- Estatística aplicada
+- CRISPR
 - Aprendizado de máquinas
 
 # Education to show in About widget
