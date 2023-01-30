@@ -58,13 +58,22 @@ experience:
     description: |2- 
         Consultoria em bioinformática incluindo beta-testing, bug report, desenvolvimento de recurss e aconselhamento técnico.    
         
-  - title: Pós-doc
+  - title: Pesquisador de pós-doutorado
     company: FIOCRUZ/IOC/LAHAN
     company_url: 'http://www.fiocruz.br/'
     location: Rio de Janeiro, Brasil
     date_start: '2022-07-01'
     date_end: '2023-01-01'
     description: |2- 
-        Compilei um workflow para análise de sequenciamento de genomas completos de _M. leprae_ usando Snakemake e ambientes virtuais.    
+        Compilei um workflow para análise de sequenciamento de genomas completos de _M. leprae_ usando Snakemake e ambientes virtuais. 
+
+  - title:  Pesquisador de pós-doutorado
+    company: Innovative Genomics Institute
+    company_url: 'https://innovativegenomics.org/'
+    location: Berkeley, Califórnia, EUA
+    date_start: '2023-02-15'
+    date_end: 
+    description: |2- 
+        Estou aplicando editores epigenéticos baseados em CRISPR-Cas para tratamento da Doença de Alzheimer.          
 ---
 

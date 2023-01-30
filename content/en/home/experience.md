@@ -65,5 +65,14 @@ experience:
     date_start: '2022-07-01'
     date_end: '2023-01-01'
     description: |2- 
-        Compiled a workflow for analyzing whole-genome sequencing data of _M. leprae_ using Snakemake and conda environments.    
+        Compiled a workflow for analyzing whole-genome sequencing data of _M. leprae_ using Snakemake and conda environments.
+
+  - title: Postdoctoral fellow
+    company: Innovative Genomics Institute
+    company_url: 'https://innovativegenomics.org/'
+    location: Berkeley, California, US
+    date_start: '2023-02-15'
+    date_end: 
+    description: |2- 
+        I'm working on engineering CRISPR-Cas epigenome editors for Alzheimer's disease therapy.         
 ---
