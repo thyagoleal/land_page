@@ -85,7 +85,7 @@ highlight_name: false
 ---
 Biologista molecular, bioinformata
 
-{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biologista molecular apaixonado por inovações científicas, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é usar biologia molecular para entendimento de fenômenos biológicos e explorá-los translacionamente para saúde humana. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. 
+{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biologista molecular apaixonado por inovações científicas, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é usar biologia molecular para entendimento de fenômenos biológicos e explorá-los translacionamente para saúde humana. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. Agora, estou utilizando edição epigenética usando CRISPR para terapia de doenças neurodegenerativas. 
 
 {{< icon name="file-code" pack="fas" >}} Eu frequentemente uso R (estatística, formatação/limpeza de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Também sou iniciante com C++ e Rust.  
 
