@@ -21,6 +21,11 @@ feature:
   icon_pack: fas
   name: Biologia Molecular
 
+- description:
+  icon: dna
+  icon_pack: fas
+  name: Biologia Molecular  
+
 - description: 
   icon: laptop-code
   icon_pack: fas
