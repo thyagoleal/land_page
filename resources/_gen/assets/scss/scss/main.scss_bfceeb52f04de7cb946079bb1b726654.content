@@ -9429,25 +9429,32 @@ h2 {
   font-size: 0.75rem; }
 
 section#about div.container {
-  max-height: 34.5rem; }
+  max-height: 91rem; }
+
+section#sobre div.container {
+  max-height: 91rem; }
 
 section#skills div.container {
-  max-height: 60rem;
-  margin-block-start: -5%;
-  margin-block-end: -5%; }
+  max-height: 150rem;
+  margin-block-start: -8%;
+  margin-block-end: 0%; }
 
 section#habilidades div.container {
-  max-height: 60rem;
-  margin-block-start: -5%;
-  margin-block-end: -5%; }
+  max-height: 160rem;
+  margin-block-start: -10%;
+  margin-block-end: -15%; }
 
 section#experience div.container {
-  max-height: 85rem;
-  margin-block-start: -5%; }
+  max-height: 105rem;
+  margin-block-start: -10%; }
+
+section#experiencia div.container {
+  max-height: 90rem;
+  margin-block-start: -10%; }
 
 section#posts div.container {
-  margin-block-start: -3%; }
+  margin-block-start: -10%; }
 
 section#contact div.container {
-  margin-block-start: -4.5%;
+  margin-block-start: -10%;
   margin-bottom: -5%; }
