@@ -26,7 +26,7 @@ interests:
 - Bioinformática
 - Genética
 - CRISPR
-- Aprendizado de máquinas
+- Neurociência
 
 # Education to show in About widget
 education:
