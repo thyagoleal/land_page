@@ -10,6 +10,10 @@ role: Doctor of Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Pioneer Science
+  url: cienciapioneira.org
+- name: IDOR
+  url: https://en.idor.org/
 - name: Innovative Genomics Institute
   url: https://innovativegenomics.org/
 
@@ -22,7 +26,7 @@ interests:
 - Bioinformatics
 - Genetics
 - CRISPR
-- Machine Learning
+- Neuroscience
 
 # Education to show in About widget
 education:

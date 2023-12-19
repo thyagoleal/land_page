@@ -10,6 +10,10 @@ role: Doutor em Ciências
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Ciência Pioneira
+  url: cienciapioneira.org
+- name: IDOR
+  url: https://www.rededorsaoluiz.com.br/instituto/idor
 - name: Innovative Genomics Institute
   url: https://innovativegenomics.org/
 
