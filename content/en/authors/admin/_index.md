@@ -6,7 +6,7 @@ title: Thyago Leal Calvo
 superuser: true
 
 # Role/position/tagline
-role: Doctor of Science | PhD
+role: MSC, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -89,10 +89,10 @@ highlight_name: false
 ---
 Molecular biologist, bioinformatician
 
-{{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a molecular biologist passionate about cutting-edge research, programming and biostatistics! I’m a strong advocate for open(science, data, source), and reproducible research. My main goal is to use molecular biology and computational/statistical tools to understand biological phenomena and translate these into human health. During my graduation I worked mainly with transcriptomics, genomics and molecular biology, both wet and dry benches. Currently, I'm working on CRISPR-based epigenetic reprogramming for treating neurodegenerative diseases.
+{{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a molecular biologist passionate about cutting-edge research, bioinformatics, and gene editing! I’m a strong advocate for open(science, data, source), and reproducible research. My main goal is to use molecular biology and computational/statistical tools to understand biological phenomena and translate these into human health. At the same time, I also work with translational research to foster advanced therapies. During my graduation I worked mainly with transcriptomics, genomics and molecular biology, both wet and dry benches, applied to infectious diseases (mainly leprosy and tuberculosis). Currently, I'm working on CRISPR-based epigenetic reprogramming for treating neurodegenerative diseases.
 
-{{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python (snakemake pipelines, automation, machine learning) and Bash/Zsh (automation, linux management). I’m also beginner with C++ and Rust.
+{{< icon name="file-code" pack="fas" >}} My most frequently used programming languages are R (stats, data wrangling, data viz.), Python 3 (snakemake pipelines, automation, machine learning) and Bash/Zsh (automation, linux management). I’m also beginner with C++ and Rust.
 
-{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, meditating, painting, hiking, music, pets, and learning new stuff.
+{{< icon name="tree" pack="fas" >}} In my free time I enjoy reading, meditating, oil painting, hiking, music, pets, and learning new stuff.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

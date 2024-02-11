@@ -6,7 +6,7 @@ title: Thyago Leal Calvo
 superuser: true
 
 # Role/position/tagline
-role: Doutor em Ciências | PhD
+role: MSc, PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -89,9 +89,9 @@ highlight_name: false
 ---
 Biologista molecular, bioinformata
 
-{{< icon name="graduation-cap" pack="fas" >}} Olá, sou Thyago! Sou um biologista molecular apaixonado por inovações científicas, programação e bioestatística. Sou forte defensor da ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é usar biologia molecular para entendimento de fenômenos biológicos e explorá-los translacionamente para saúde humana. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica, tendo experiência tanto em bancada molhada quanto computacional. Agora, estou utilizando edição epigenética usando CRISPR para terapia de doenças neurodegenerativas. 
+{{< icon name="graduation-cap" pack="fas" >}} Olá, sou o Thyago! Sou um biologista molecular apaixonado por inovações científicas, bioinformática e edição gênica. Também sou forte defensor da ciência aberta, reprodutibilidade e código livre. Meu principal objetivo é usar biologia molecular e bioinformática para entendimento de fenômenos biológicos e explorá-los translacionamente para saúde humana. Durante minha pós-graduação trabalhei principalmente com biologia molecular, transcritômica e genômica aplicadas a doenças infecciosas, tendo experiência tanto em bancada molhada quanto computacional. Agora, estou utilizando edição epigenética com CRISPR-Cas para terapia de doenças neurodegenerativas. 
 
-{{< icon name="file-code" pack="fas" >}} Eu frequentemente uso R (estatística, formatação/limpeza de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquinas), Bash/Zsh (automação, administração linux). Também sou iniciante com C++ e Rust.  
+{{< icon name="file-code" pack="fas" >}} Eu frequentemente uso R (estatística, formatação/limpeza de dados e visualização), Python (workflows com snakemake, automação e bibliotecas de aprendizado de máquina), Bash/Zsh (automação, administração linux). Também sou iniciante com C++ e Rust.  
 
 {{< icon name="tree" pack="fas" >}} Meus hobbies favoritos são leitura, meditação, pintura a óleo, esportes ao ar livre, música, animais de estimação e aprender coisas novas.  
 
