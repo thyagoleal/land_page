@@ -11,7 +11,7 @@ role: MSC, PhD
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Pioneer Science
-  url: cienciapioneira.org
+  url: https://cienciapioneira.org
 - name: IDOR
   url: https://en.idor.org/
 - name: Innovative Genomics Institute
