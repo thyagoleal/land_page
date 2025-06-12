@@ -74,6 +74,6 @@ experience:
     date_start: '2023-02-15'
     date_end: 
     description: |2- 
-        Estou aplicando editores epigenéticos baseados em CRISPR-Cas para tratamento da Doença de Alzheimer.          
+        Apliquei editores epigenéticos baseados em CRISPR-Cas para tratamento da Doença de Alzheimer através de ativação de fatores neuroprotetores.          
 ---
 

@@ -23,14 +23,17 @@ organizations:
 # Interests to show in About widget
 interests:
 - Molecular Biology
+- CRISPR
 - Bioinformatics
 - Genetics
-- CRISPR
-- Neuroscience
 
 # Education to show in About widget
 education:
   courses:
+
+  - course: Postdoctoral fellow (Urnov lab)
+    institution: Innovative Genomics Institute (UC Berkeley)
+    year: 2025
   - course: PhD in Cell & Molecular Biology (Molecular Biology)
     institution: Oswaldo Cruz Foundation (FIOCRUZ)
     year: 2022

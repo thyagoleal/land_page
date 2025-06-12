@@ -72,7 +72,7 @@ experience:
     company_url: 'https://innovativegenomics.org/'
     location: Berkeley, California, US
     date_start: '2023-02-15'
-    date_end: 
+    date_end: '2025-06-01'
     description: |2- 
-        I'm working on engineering CRISPR-Cas epigenome editors for Alzheimer's disease therapy.         
+        I worked on engineering CRISPR-Cas epigenome editors, and modulating neuroprotective factors for Alzheimer's disease therapy.        
 ---
