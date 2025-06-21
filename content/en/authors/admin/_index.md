@@ -90,7 +90,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Molecular biologist, bioinformatician
+Researcher: Molecular biologist, bioinformatician
 
 {{< icon name="graduation-cap" pack="fas" >}} Hello, there! I’m Thyago. I’m a molecular biologist passionate about cutting-edge research, bioinformatics, and gene editing! I’m a strong advocate for open(science, data, source), and reproducible research. My main goal is to use molecular biology and computational/statistical tools to understand biological phenomena and translate these into human health. At the same time, I also work with translational research to foster advanced therapies. During my graduation I worked mainly with transcriptomics, genomics and molecular biology, both wet and dry benches, applied to infectious diseases (mainly leprosy and tuberculosis). Currently, I'm working on CRISPR-based epigenetic reprogramming for treating neurodegenerative diseases.
 
