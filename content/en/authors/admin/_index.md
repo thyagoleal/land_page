@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Thyago Leal Calvo
+title: Thyago Leal Calvo, MSc., PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MSC, PhD
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
