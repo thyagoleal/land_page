@@ -87,14 +87,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = " 2151 Berkeley Way", city = "Berkeley", region = "CA", postcode = "94720", country = "USA", country_code = "US"}
+address = {street = "Av. Brigadeiro Luís Antônio, 5001", city = "São Paulo", region = "SP", postcode = "01401-002", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.8737809", longitude = "-122.2670021"}
+coordinates = {latitude = "-23.58361976369673", longitude = "-46.6690010932528"}
 
 # Directions for visitors to locate you.
-directions = "Second floor, room 220"
+directions = "Pioneer Science labs"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
