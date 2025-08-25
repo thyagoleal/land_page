@@ -74,5 +74,5 @@ experience:
     date_start: '2023-02-15'
     date_end: '2025-06-01'
     description: |2- 
-        I worked on engineering CRISPR-Cas epigenome editors, and modulating neuroprotective factors for Alzheimer's disease therapy.        
+        I worked on engineering CRISPR-Cas epigenome editors, and modulating neuroprotective factors for Alzheimer's disease therapy. In addition, I used CRISPR base editing for correcting single-nucleotide variants for a n=1 genetic disorder.         
 ---
