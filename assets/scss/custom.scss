@@ -1,70 +1,61 @@
 // Add here overriding custom scss 
-
 // text within post
 body {
     text-align: justify;
     font-size: 0.9rem;
 }
-
 // header 1
 h1 {
     font-size: 1.9rem;
-  }
-
+}
 // header 2   
 h2 {
     margin-top: 1rem;
     font-size: 1.45rem;
-  }
-
+}
 // post container
 .article-container {
     max-width: 760px;
-    }    
-
+}    
 // top of post, where name, data, tag is
 .article-metadata {
     font-size: 14px; 
 }
-
 // footnote size
 .footnotes { font-size: 0.75rem}
 
 section#about div.container{
   max-height: 91rem;
-  }
-
+}
 section#sobre div.container{
   max-height: 91rem;
-  }
-
-section#skills div.container{
-  max-height: 150rem;
-  margin-block-start: -8%;
-  margin-block-end: 0%;
 }
 
-section#habilidades div.container{
-  max-height: 160rem;
-  margin-block-start: -10%;
-  margin-block-end: -15%;
+section#skills {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+section#habilidades {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
-section#experience div.container{
-  max-height: 105rem;
-  margin-block-start: -10%;
+section#experience {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  overflow: hidden;
 }
-
-section#experiencia div.container{
-  max-height: 90rem;
-  margin-block-start: -10%;
+section#experiencia {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  overflow: hidden;
 }
 
 section#posts div.container{
-  margin-block-start: -10%;
+  margin-block-start: -5%;
 }
 
-section#contact div.container{
-  margin-block-start: -10%;
-  margin-bottom: -5%;
+section#contact {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }

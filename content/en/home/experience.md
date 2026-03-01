@@ -55,7 +55,7 @@ experience:
     location: San Francisco, California
     date_start: '2022-05-27'
     date_end: '2022-07-27'
-    description: |2- 
+    description: |2-
         Bioinformatics consulting services including beta-testing, bug report, feature development, and technical advisor. 
     
   - title: Postdoctoral fellow
@@ -64,7 +64,7 @@ experience:
     location: Rio de Janeiro, Brazil
     date_start: '2022-07-01'
     date_end: '2023-01-01'
-    description: |2- 
+    description: |2-
         Compiled a workflow for analyzing whole-genome sequencing data of _M. leprae_ using Snakemake and conda environments.
 
   - title: Postdoctoral fellow
@@ -73,7 +73,7 @@ experience:
     location: Berkeley, California, US
     date_start: '2023-02-15'
     date_end: '2025-05-31'
-    description: |2- 
+    description: |2-
         I worked on engineering CRISPR-Cas epigenome editors, and modulating neuroprotective factors for Alzheimer's disease therapy. In addition, I used CRISPR base editing for correcting single-nucleotide variants for a n=1 genetic disorder.
 
   - title: Principal Investigator
@@ -82,6 +82,6 @@ experience:
     location: São Paulo, SP, Brasil
     date_start: '2025-08-06'
     date_end:
-    description: |2- 
+    description: |2-
         Our group has an interest in the development of new tools for the editing of the epigenome through the use of CRISPR/Cas and other platforms. In addition, these tools are translationally applied in the development of therapies for Alzheimer’s disease through the modulation of neuroprotective genes. Finally, we also investigate aberrant intron retention events associated with aging and Alzheimer’s disease. The overarching goal of the group is to study neurodegenerative diseases and aging from the perspective of the epigenome and the dysregulation of gene regulatory mechanisms, such as splicing.    
 ---
