@@ -56,7 +56,7 @@ experience:
     date_start: '2022-05-27'
     date_end: '2022-07-27'
     description: |2- 
-        Consultoria em bioinformática incluindo beta-testing, bug report, desenvolvimento de recurss e aconselhamento técnico.    
+        Consultoria em bioinformática incluindo beta-testing, bug report, desenvolvimento de recursos e aconselhamento técnico.    
         
   - title: Pesquisador de pós-doutorado
     company: FIOCRUZ/IOC/LAHAN
@@ -67,13 +67,22 @@ experience:
     description: |2- 
         Compilei um workflow para análise de sequenciamento de genomas completos de _M. leprae_ usando Snakemake e ambientes virtuais. 
 
-  - title:  Pesquisador de pós-doutorado
+  - title: Pesquisador de pós-doutorado
     company: Innovative Genomics Institute
     company_url: 'https://innovativegenomics.org/'
     location: Berkeley, Califórnia, EUA
     date_start: '2023-02-15'
+    date_end: '2025-05-31'
+    description: |2- 
+        Apliquei editores epigenéticos baseados em CRISPR-Cas para tratamento da Doença de Alzheimer através de ativação de fatores neuroprotetores.   
+
+  - title: Pesquisador Principal
+    company: Iniciativa Ciência Pioneira do Instituto D'Or de Pesquisa e Ensino (IDOR)
+    company_url: 'cienciapioneira.org'
+    location: São Paulo, SP, Brasil
+    date_start: '2025-08-06'
     date_end: 
     description: |2- 
-        Apliquei editores epigenéticos baseados em CRISPR-Cas para tratamento da Doença de Alzheimer através de ativação de fatores neuroprotetores.          
+        Nosso grupo tem interesse na criação de novas ferramentas para a edição do epigenoma por meio do uso de CRISPR/Cas e de outras plataformas. Além disso, essas ferramentas são aplicadas de forma translacional no desenvolvimento de terapias para a doença de Alzheimer, por meio da modulação de genes neuroprotetores. Por fim, também investigamos os eventos aberrantes de retenção intrônica associados ao envelhecimento e à doença de Alzheimer. O grande objetivo do grupo é estudar as doenças neurodegenerativas e o envelhecimento sob a perspectiva do epigenoma e da desregulação dos mecanismos de regulação gênica.                
 ---
 
