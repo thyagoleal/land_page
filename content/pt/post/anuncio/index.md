@@ -9,9 +9,11 @@ date: 2026-10-24
 featured: true
 draft: false
 math: false
-diagram: false
+diagram: true
 highlight: true
 ---
+
+![Recruitment flyer](anuncio-vagas.jpg)
 
 ## Venha fazer ciência com a gente!
 
@@ -51,7 +53,7 @@ As oportunidades são destinadas a estudantes e profissionais em diferentes etap
 - **Mestrado:** graduados ou estudantes em fase de conclusão da graduação interessados em desenvolver um projeto científico.
 - **Doutorado:** mestres ou profissionais com formação compatível interessados em desenvolver pesquisa em neurociência molecular e biotecnologia.
 
-São bem-vindas pessoas de Ciências Biológicas, Biomedicina, Biotecnologia, Bioquímica, Farmácia, Neurociências, Bioinformática e áreas relacionadas.
+São bem-vindas pessoas de Ciências Biológicas, Biomedicina, Biotecnologia, Química, Bioquímica, Farmácia, Neurociências, Bioinformática e áreas relacionadas.
 
 **Não espero que você já domine todas as técnicas.** Para iniciação científica, não espero experiência prévia com nenhuma delas, espero curiosidade e vontade de aprender. 
 Para mestrado e doutorado, alguma vivência em biologia molecular e celular é desejável, mas o que pesa mais é a disposição de aprender da bancada à bioinformática.
